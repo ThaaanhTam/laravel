@@ -1,0 +1,57 @@
+a{
+    text-decoration: none;
+      padding: 5px;
+    
+  }
+  .box{
+      margin-top: 50px;
+  }
+  
+  .box .icon{
+      text-align: center;
+  }
+  .icon{
+  border-radius: 100px;
+  border: solid 2px black;
+  
+  }
+  .formlogin {
+     
+      width: 600px;
+      height: 500px;
+      border: 2px solid black;
+     margin: 50px auto;
+     border-radius: 5px;
+  
+  }
+  .username{
+      display: flex;
+      margin-bottom: 50px;
+  }
+  .PassWold{display: flex;
+      margin-bottom: 20px;
+  }
+  .ghinho{
+      display: flex;
+      margin-bottom: 10px;
+     
+  }
+  .ghinhopass{
+  margin: auto 180px;
+  }
+  .row{
+      margin-top: 20px;
+  }
+  .supcua{
+   
+  }
+  .userpass{
+  
+      margin-bottom: 50px;
+  }
+  .contaitable{
+      width: 800px;
+      height: 600px;
+      border: 2px solid black;
+  
+  }
